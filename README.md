@@ -33,7 +33,7 @@ sudo apt install python3-pip
 ```
 - Install the required libraries with pip:
 ```
-pip install disnake requests
+pip3 install disnake requests
 ```
 
 ## Run the bot:
