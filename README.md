@@ -14,7 +14,7 @@ This Discord bot provides users with detailed information about a Minecraft serv
 - Required Libraries: disnake (for interacting with Discord's API), requests (for fetching Minecraft server data)
 Install the required libraries using pip:
 ```
-pip install disnake requests
+pip3 install disnake requests
 ```
 
 ## Setup
